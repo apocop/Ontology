@@ -8,7 +8,7 @@ Example Usage:
 python3 extract_terms.py --input_file=/Users/$USER/workspace/SUMO/Merge.kif \
     --output_file=testfile.kif \
     --language=JapaneseLanguage \
-    --terms=Documentation
+    --terms=termFormat,Format
 """
 
 from absl import app
