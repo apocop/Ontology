@@ -16,7 +16,7 @@ Definitions:
     will be provided at the top of the file.
 
 
-python3 extract_terms.py --input_file=/Users/ddorado/workspace/JEONtology/HighFrequencyList-VL.kif \
+python3 extract_terms.py --input_file=/Users/$USER/workspace/SUMO/Merge.kif \
     --output_file=testfile.kif \
     --lang_loc=es \
     --terms=termFormat,Format \
